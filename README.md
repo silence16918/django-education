@@ -1,6 +1,10 @@
 # django-educaton
-### Online education project
-##### 项目地址: http://study.silence321.com/
+
+#### nline education project
+#### 项目地址: http://study.silence321.com/ 
+#### 管理员后台地址: http://study.silence321.com/xadmin (账号:chen 密码:123456)
+
+
 ###### 1、简介: dango+python2.7+mysql+pycharm
 ###### 2、项目目录结构：
 
