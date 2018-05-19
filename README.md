@@ -9,7 +9,6 @@
 
 ### 1、简介: 在线教育平台 dango+python2.7+mysql+xadmin
 <br/>
-<br/>
 
 ### 2、功能模块：
 ####  1,注册登录模块
@@ -17,11 +16,9 @@
 #####  登录页:密码找回
 <img width="800px" src="image/register.png"/>
 <br/>
-<br/>
 
 ####  2,主页模块
 #####  首页: 分类搜索,轮播图,课程,机构展示
-<br/>
 <br/>
 <br/>
 
@@ -33,20 +30,16 @@
 <img src="image/user.png"/>
 <br/>
 <br/>
-<br/>
 
 ####  4,课程模块
 #####  课程列表页:课程分页,排序,热门课程推荐
 <img width="800px" src="image/course.png"/>
-<br/>
 
 #####  课程详情页:课程收藏,开始学习,相关课程推荐
 <img width="800px" src="image/coursedetail.png"/>
-<br/>
 
 #####  课程播放:课程章节,课程评论,资源下载,讲师提示,该课同学还学过
 <img src="image/comment.png"/>
-<br/>
 <br/>
 <br/>
 
@@ -54,9 +47,8 @@
 ####  4,讲师模块
 #####  讲师列表页:讲师分页,排序,讲师排行榜
 <img width="800px" src="image/teacher.png"/>
-<br/>
 #####  讲师详情页:讲师收藏,讲师全部课程
-<br/>
+<img width="800px" src="image/teacherdetail.png"/>
 <br/>
 <br/>
 
@@ -64,17 +56,13 @@
 ####  5,机构模块
 #####  机构列表页:机构分页,筛选,排序,机构咨询,排名
 <img width="800px" src="image/org.png"/>
-<br/>
 
 #####  机构详情页:机构首页,机构课程,机构介绍,机构讲师,机构收藏
 <img width="800px" src="image/orgdetail.png"/>
 <br/>
-<br/>
-<br/>
 
 ####  6,xadmin后台管理系统
 <img width="800px" src="image/admin.png"/>
-<br/>
 <br/>
 <br/>
 
