@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <title>1.1 安装mysql</title>
+    <link rel="stylesheet" type="text/css" href="play_files/reset.css">
+    <link rel="stylesheet" type="text/css" href="play_files/animate.css">
+    <link rel="stylesheet" type="text/css" href="play_files/style.css">
+    
+    <link rel="stylesheet" type="text/css" href="play_files/base.css">
+    <link rel="stylesheet" type="text/css" href="play_files/common-less.css">
+    <link rel="stylesheet" type="text/css" href="play_files/learn-less.css">
+    <link rel="stylesheet" type="text/css" href="play_files/aui.css">
+    <link rel="stylesheet" type="text/css" href="play_files/mooc.css">
+    <link rel="stylesheet" type="text/css" href="play_files/common-less_002.css">
+
+    <script src="play_files/jquery.js" type="text/javascript"></script>
+    <script src="play_files/jquery-migrate-1.js" type="text/javascript"></script>
+<link type="text/css" rel="stylesheet" href="play_files/laydate_002.css"><link type="text/css" rel="stylesheet" href="play_files/laydate.css" id="LayDateSkin"><link rel="stylesheet" href="play_files/layer_002.css" id="layui_layer_skinlayercss" style=""><link rel="stylesheet" href="play_files/layer.css" id="layui_layer_skinlayerextcss" style=""></head>
+
+<body>
+<section class="headerwrap ">
+    <header>
+        <div class=" header">
+
+            
+                <div class="top">
+                    <div class="wp">
+                        <div class="fl"><p>服务电话：<b>	400-1008031</b></p></div>
+                        <!--登录后跳转-->
+
+                        <div class="personal">
+                            <dl class="user fr">
+                                <dd>chen<img class="down fr" src="play_files/top_down.png">
+                                </dd>
+                                <dt><img src="play_files/09.png" height="20" width="20">
+                                </dt>
+                            </dl>
+                            <div class="userdetail" style="display: none;">
+                                <dl>
+                                    <dt><img src="play_files/09.png" height="80" width="80"></dt>
+                                    <dd>
+                                        <h2>小红</h2>
+                                        <p>chen</p>
+                                    </dd>
+                                </dl>
+                                <div class="btn">
+                                    <a class="personcenter fl" href="http://127.0.0.1:8000/users/info/">进入个人中心</a>
+                                    <a class="fr" href="http://127.0.0.1:8000/logout/">退出</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+
+            <div class="middle">
+                <div class="wp">
+                    <a href="http://127.0.0.1:8000/course/video/1/index.html"><img class="fl" src="play_files/logo.jpg"></a>
+                </div>
+            </div>
+
+            <nav>
+                <div class="nav">
+                    <div class="wp">
+                        <ul>
+                            <li>
+                                <a href="http://127.0.0.1:8000/">首页</a>
+                            </li>
+                            <li class="active">
+                                <a a="" href="http://127.0.0.1:8000/course/list/">
+                                    公开课<img class="hot" src="play_files/nav_hot.png">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://127.0.0.1:8000/org/teacher/list/">授课教师</a>
+                            </li>
+                            <li>
+                                <a href="http://127.0.0.1:8000/org/list/">授课机构</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+        </div>
+    </header>
+</section>
+
+
+    <section>
+        <div class="wp">
+            <div class="crumbs">
+                <ul>
+                    <li><a href="http://127.0.0.1:8000/">首页</a>&gt;</li>
+                    <li><a href="http://127.0.0.1:8000/course/list/">公开课程</a>&gt;</li>
+                    <li><a href="http://127.0.0.1:8000/course/detail/1/">课程详情</a>&gt;</li>
+                    <li><a href="http://127.0.0.1:8000/course/info/1/">django</a>&gt;</li>
+                    <li>1.1 安装mysql</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+
+
+    <div id="main">
+        <div class="course-info-main clearfix w has-progress">
+            <iframe src="play_files/XMzQ5Mzk2NjIwMA.htm" 'allowfullscreen'="" height="800" frameborder="0" width="1200"></iframe>
+            <div class="info-bar clearfix">
+                <div class="content-wrap clearfix">
+                    <div class="content">
+                        <div class="mod-tab-menu">
+                            <ul class="course-menu clearfix">
+                                <li><a class="ui-tabs-active active" id="learnOn" href="#"><span>章节</span></a></li>
+                                <li><a id="commentOn" class="" href="http://127.0.0.1:8000/course/comment/1/"><span>评论</span></a></li>
+                            </ul>
+                        </div>
+                        <div style="height:50px" id="notice" class="clearfix">
+                            <div class="l"><strong>课程公告:</strong> <a href="javascript:void(0)">Spring的文档以及相关的jar文件已上传</a></div>
+                        </div>
+                        <div class="mod-chapters">
+                            
+                                <div class="chapter chapter-active">
+                                    <h3>
+                                        <strong><i class="state-expand"></i>第一章 环境准备</strong>
+                                    </h3>
+                                    <ul class="video">
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/1/" class="J-media-item studyvideo">1.1 安装mysql
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/2/" class="J-media-item studyvideo">1.2 安装nginx
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/3/" class="J-media-item studyvideo">1.3 安装python
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+                                <div class="chapter chapter-active">
+                                    <h3>
+                                        <strong><i class="state-expand"></i>第二章 基础知识</strong>
+                                    </h3>
+                                    <ul class="video">
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/4/" class="J-media-item studyvideo">2.1 python基础
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/5/" class="J-media-item studyvideo">2.2 html基础
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/6/" class="J-media-item studyvideo">2.3 mysql基础
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+                                <div class="chapter chapter-active">
+                                    <h3>
+                                        <strong><i class="state-expand"></i>第三章 环境准备</strong>
+                                    </h3>
+                                    <ul class="video">
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/7/" class="J-media-item studyvideo">3.1 model设计
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/8/" class="J-media-item studyvideo">3.2 搭建xadmin后台管理
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/9/" class="J-media-item studyvideo">3.3 用户注册登录
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+                                <div class="chapter chapter-active">
+                                    <h3>
+                                        <strong><i class="state-expand"></i>第四章 功能完善</strong>
+                                    </h3>
+                                    <ul class="video">
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/10/" class="J-media-item studyvideo">4.1 个人中心
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/11/" class="J-media-item studyvideo">4.2 网站安全
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/12/" class="J-media-item studyvideo">4.3 搜索功能
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+                                <div class="chapter chapter-active">
+                                    <h3>
+                                        <strong><i class="state-expand"></i>第五章 线上部署</strong>
+                                    </h3>
+                                    <ul class="video">
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/13/" class="J-media-item studyvideo">5.1 域名与服务器
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/14/" class="J-media-item studyvideo">5.2 nginx配置
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a target="_blank" href="http://127.0.0.1:8000/course/video/15/" class="J-media-item studyvideo">5.3 上传文件
+                                                    (20)
+                                                    <i class="study-state"></i>
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                </div>
+                            
+                        </div>
+                    </div>
+                    <div class="aside r">
+                        <div class="bd">
+
+                            <div class="box mb40">
+                                <h4>资料下载</h4>
+                                <ul class="downlist">
+                                    
+                                        <li>
+                                            <span><i class="aui-iconfont aui-icon-file"></i>&nbsp;&nbsp;django</span>
+                                            <a href="http://127.0.0.1:8000/media/course/resource/18/03/redis-4.0.8.tar.gz" class="downcode" target="_blank" download="" data-id="274" title="">下载</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <span><i class="aui-iconfont aui-icon-file"></i>&nbsp;&nbsp;redis</span>
+                                            <a href="http://127.0.0.1:8000/media/course/resource/18/03/redis-4.0.8.tar_d9VY1Pa.gz" class="downcode" target="_blank" download="" data-id="274" title="">下载</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <span><i class="aui-iconfont aui-icon-file"></i>&nbsp;&nbsp;mysql</span>
+                                            <a href="http://127.0.0.1:8000/media/course/resource/18/03/redis-4.0.8.tar_zhRHNL5.gz" class="downcode" target="_blank" download="" data-id="274" title="">下载</a>
+                                        </li>
+                                    
+                                </ul>
+                            </div>
+                            <div class="box mb40">
+                                <h4>讲师提示</h4>
+                                <div class="teacher-info">
+                                    <a href="http://127.0.0.1:8000/org/teacher/detail/1/" target="_blank">
+                                        <img src="play_files/ea93576ec3c9c0ab337870717a758bd3.jpg" height="80" width="80">
+                                    </a>
+                                    <span class="tit"><a href="http://127.0.0.1:8000/org/teacher/detail/1/" target="_blank">马云</a></span>
+                                    <span class="job">ceo</span>
+                                </div>
+                                <div class="course-info-tip">
+                                    <dl class="first">
+                                        <dt>课程须知</dt>
+                                        <dd class="autowrap">关于django?</dd>
+                                    </dl>
+                                    <dl>
+                                        <dt>老师告诉你能学到什么？</dt>
+                                        <dd class="autowrap">关于django</dd>
+                                    </dl>
+                                </div>
+                            </div>
+
+
+                            <div class="cp-other-learned  js-comp-tabs">
+                                <div class="cp-header clearfix">
+                                    <h2 class="cp-tit l">该课的同学还学过</h2>
+                                </div>
+                                <div class="cp-body">
+                                    <div class="cp-tab-pannel js-comp-tab-pannel" data-pannel="course" style="display: block">
+                                        <!-- img 200 x 112 -->
+                                        <ul class="other-list">
+                                            
+                                                <li class="curr">
+                                                    <a href="http://127.0.0.1:8000/course/detail/1/" target="_blank">
+                                                        <img src="play_files/f4e1cda88a049d76e5f76fc8b2b068b1.jpg" alt="django">
+                                                        <span class="name autowrap">django</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li class="curr">
+                                                    <a href="http://127.0.0.1:8000/course/detail/16/" target="_blank">
+                                                        <img src="play_files/timg.jpg" alt="AI">
+                                                        <span class="name autowrap">AI</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li class="curr">
+                                                    <a href="http://127.0.0.1:8000/course/detail/2/" target="_blank">
+                                                        <img src="play_files/001f95982f00e89e62944378b28b2f00.png" alt="ios">
+                                                        <span class="name autowrap">ios</span>
+                                                    </a>
+                                                </li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+<section>
+    <ul class="sidebar" style="display: none;">
+        <li class="qq">
+            <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2023525077&amp;site=qq&amp;menu=yes"></a>
+        </li>
+        <li class="totop"></li>
+    </ul>
+</section>
+<script src="play_files/selectUi.js" type="text/javascript"></script>
+<script src="play_files/deco-common.js" type="text/javascript"></script>
+<script type="text/javascript" src="play_files/laydate.js"></script>
+<script src="play_files/layer.js"></script>
+<script src="play_files/public.js" type="text/javascript"></script><div id="dimCityQuery"><ul></ul></div>
+<script src="play_files/unslider.js" type="text/javascript"></script>
+<script src="play_files/jquery_002.js" type="text/javascript"></script>
+<script src="play_files/deco-common.js" type="text/javascript"></script>
+
+
+
+</body></html>
