@@ -3,7 +3,7 @@
 #### nline education project
 #### 项目地址: http://study.silence321.com/ 
 #### 管理员后台地址: http://study.silence321.com/xadmin (账号:chen 密码:123456)
-<img align=center width="550" src="image/login.png"/>
+<img src="image/index.png"/>
 <br/>
 
 ### 1、简介: 在线教育平台 dango+python2.7+mysql+xadmin
@@ -13,8 +13,9 @@
 ####  1,注册登录模块
 #####  注册页:邮箱验证
 #####  登录页:密码找回
-<img align=left width="150" height="150" src="image/register.png"/>
-<img align=right width="150" height="150" src="image/login.png"/>
+<br/>
+<img align=left width="450" src="image/register.png"/>
+<img align=right width="450" src="image/login.png"/>
 <br/>
 
 ####  2,主页模块
