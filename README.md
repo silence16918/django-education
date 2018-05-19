@@ -14,8 +14,8 @@
 #####  注册页:邮箱验证
 #####  登录页:密码找回
 <br/>
-<img align=left width="450" src="image/register.png"/>
-<img align=right width="450" src="image/login.png"/>
+<img align=left width="400" src="image/register.png"/>
+<img align=right width="400" src="image/login.png"/>
 <br/>
 
 ####  2,主页模块
